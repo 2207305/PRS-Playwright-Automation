@@ -1,2 +1,2 @@
 console.log("anil")
-console.log("anil")
+console.log("Snil")
